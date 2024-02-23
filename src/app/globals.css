@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 
-html{
-  zoom: 0.9;
+/* html{
+  zoom: 1;
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
