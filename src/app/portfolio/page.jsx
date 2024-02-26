@@ -15,22 +15,14 @@ const items = [
   },
   {
     id: 2,
-    color: "from-violet-300 to-purple-300",
-    title: "React Dice Game",
-    desc: "Crafted an engaging React-based dice game website, where users can roll virtual dice and experience the thrill of chance.",
-    img: "https://cdn.pixabay.com/photo/2015/03/25/23/45/cube-689618_1280.jpg",
-    link: "https://dice-game-nu-six.vercel.app/",
+    color: "from-purple-300 to-red-300",
+    title: "MERN Chat App",
+    desc: "Developed a MERN chat app with real-time messaging, user authentication, and a seamless, user-friendly interface. Implemented WebSocket for instant communication.",
+    img: "https://cdn.pixabay.com/photo/2020/09/02/03/26/iphone-5537230_1280.jpg",
+    link: "https://github.com/PratikOdpalliwar/mern-chat-app",
   },
   {
     id: 3,
-    color: "from-purple-300 to-red-300",
-    title: "React Food App",
-    desc: "Crafted a delightful React-based food app that offers a visually appealing interface and also provides a seamless and enjoyable experience for users.",
-    img: "https://cdn.pixabay.com/photo/2017/01/26/02/06/platter-2009590_1280.jpg",
-    link: "https://thefoodies-flame-chi.vercel.app/",
-  },
-  {
-    id: 4,
     color: "from-blue-300 to-violet-300",
     title: "Next.js and Typescript App",
     desc: "Built a travel website using TypeScript and Next.js, combining type safety with the efficiency of server-side rendering for a modern and reliable web presence.",
@@ -38,13 +30,23 @@ const items = [
     link: "https://hilinkapp.vercel.app/",
   },
   {
+    id: 4,
+    color: "from-violet-300 to-purple-300",
+    title: "React Dice Game",
+    desc: "Crafted an engaging React-based dice game website, where users can roll virtual dice and experience the thrill of chance.",
+    img: "https://cdn.pixabay.com/photo/2015/03/25/23/45/cube-689618_1280.jpg",
+    link: "https://dice-game-nu-six.vercel.app/",
+  },
+  {
     id: 5,
     color: "from-purple-300 to-red-300",
-    title: "React E-commerce App",
-    desc: "Built a responsive e-commerce platform using React, focusing on a user-friendly shopping experience.",
-    img: "https://cdn.pixabay.com/photo/2017/08/07/18/39/xbox-2606608_1280.jpg",
-    link: "https://game-yard.vercel.app/",
+    title: "React Food App",
+    desc: "Crafted a delightful React-based food app that offers a visually appealing interface and also provides a seamless and enjoyable experience for users.",
+    img: "https://cdn.pixabay.com/photo/2017/01/26/02/06/platter-2009590_1280.jpg",
+    link: "https://thefoodies-flame-chi.vercel.app/",
   },
+
+  
 ];
 
 const PortfolioPage = () => {
