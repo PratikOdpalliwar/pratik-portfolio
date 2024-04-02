@@ -8,10 +8,10 @@ const items = [
   {
     id: 1,
     color: "from-red-300 to-blue-300",
-    title: "MERN Blog App",
-    desc: "Built a sleek MERN blog app using MongoDB, Express.js, React, and Node.js. Seamlessly share, edit, and delete posts for a user-friendly experience.",
-    img: "https://cdn.pixabay.com/photo/2014/02/13/07/28/wordpress-265132_1280.jpg",
-    link: "https://github.com/PratikOdpalliwar/fullstack-mern-blog-app",
+    title: "MERN Real Estate App",
+    desc: "Built a dynamic real estate application using the MERN stack, combining MongoDB, Express.js, React, and Node.js to create a seamless user experience for property browsing and management.",
+    img: "https://cdn.pixabay.com/photo/2021/10/07/15/23/real-estate-6688945_1280.jpg",
+    link: "https://pureestate.onrender.com/sign-in",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const items = [
     title: "MERN Chat App",
     desc: "Developed a MERN chat app with real-time messaging, user authentication, and a seamless, user-friendly interface. Implemented WebSocket for instant communication.",
     img: "https://cdn.pixabay.com/photo/2020/09/02/03/26/iphone-5537230_1280.jpg",
-    link: "https://github.com/PratikOdpalliwar/mern-chat-app",
+    link: "https://mernchatapp-b1fq.onrender.com/login",
   },
   {
     id: 3,
